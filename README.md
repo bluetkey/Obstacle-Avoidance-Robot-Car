@@ -4,8 +4,8 @@ Autonomous obstacle-avoidance robot car built with an Arduino Uno, an HC-SR04 ul
 
 ## Contents
 
-- **`Obstacle Avoidance Robot Car.pdf`** — Full write-up covering the design, circuit, code, testing, and results.
-- **`Obstacle Avoidant Robot Car.ino`** — Arduino sketch that runs the robot.
+- **`Obstacle Avoidance Robot Car.pdf`** - Full write-up covering the design, circuit, code, testing, and results.
+- **`Obstacle Avoidant Robot Car.ino`** - Arduino sketch that runs the robot.
 
 ## Built With
 
